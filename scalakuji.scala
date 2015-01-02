@@ -14,6 +14,7 @@ object Main extends App {
             "半凶",
             "末凶",
             "大凶"
+            "ハズレ"
             )
 
     Random.setSeed(System.currentTimeMillis)
